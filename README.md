@@ -15,6 +15,10 @@ This repo contains about microsoft Movie Project! Each of these is in a separate
 
 -final_movie.ipynb file is my working through data in the jupyter notebook 
 
+-video5436879079.mp4 video presentation
+-final movie 2 pdf is coding pdf from jupyter notebook
+
+
  Project Summary
 Descriptive analysis of Microsoft Movie making project! After detailed analytics in to given data set I found out below findings-
 -	What type (genres) is current trend
